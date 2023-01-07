@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .context{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            color: chocolate;
+        }
+        h1{
+            font-size: 20px;
+        }
+        h2{
+            font-size: 18px;
+        }
+        p{
+            font-size: 14px;
+        }
+
+    </style>
+</head>
+<!-- HTML dili Türkçe yapıldı -->
+<body class="context">
+    <br>
+    <br>
+
+    <h1>Recep ÖZTÜRK</h1>
+    <br>
+    
+    <h2>Hakkımda</h2>
+    <br>
+    <!-- Paragraf içine kendimle ilgili bilgileri yazdım. -->
+    <p>Merhaba, ben Recep. İstanbul'da yaşayan bir finans sektörü çalışanıyım. 30 yaşındayım ve sektörde 6.yılımı tamamlamış bulunmaktayım.</p>
+    <p>Her türlü sportif faaliyetten yapmaktan keyif almama rağmen ilk sırada tenis ve trekking geliyor.
+    <!-- br etiketi ile alt satıra geçtim. -->
+    <br> Günlük hayatımda ise bilim kurgu veya real story dizileri veya filmleri izlemekten çok keyif alırım.</p>
+    <p>Son dönemde ise yazılım temellerine başladım ve HTML, CSS ve Javascript gibi markup ve yazılım dillerine giriş yaptım. Umarım aynı istek ve merakla devam edebilirim.
+    </p>
+</body>
+</html>
