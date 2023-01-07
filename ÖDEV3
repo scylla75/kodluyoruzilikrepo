@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zeytinyağlı Enginar Tarifi(resimli)</title>
+</head>
+<body>
+    <!-- Navbar başladı -->
+    <nav>
+        <ul>
+            
+            <li><a href="#tarih">Tarihine git</a></li>
+            <li><a href="#malzeme">Malzemelere git</a></li>
+            <li><a href="#tarif">Yemek tarifine git</a></li>
+            <li><a href="#fotograf">Fotoğraflı tarife git</a></li>
+        </ul>
+    </nav>
+    <!-- Navbar bitti -->
+    <!-- Yemek açıklaması başladı -->
+    
+    <h1><strong>Zeytinyağlı Enginar</strong></h1>
+    
+    <img src="https://i.nefisyemektarifleri.com/2021/04/18/zeytinyagli-enginar-tarifi-videolu.jpg" alt="Zeytinyağlı Enginar resmi">
+    
+    <h2 id="tarih"><b>Tarifin Hikayesi</b></h2>
+    <p>Sağlıklı beslenmek isteyenlerin ilk adresi her zaman için enginardır. <br>
+         İçerisine yerleştirilen garnitürü ile daha da bir lezzetlenen zeytinyağlı <br>
+          hali bambaşka olan zeytinyağlı enginarı sevenlerden misiniz? Kış aylarının <br>
+           sevenleri tarafından en çok tüketilen sebzesi enginarı kimisi içerdiği besinlerden <br> faydalanmak için kimiside gerçekten sevdiği için tüketiyor. İçerisinde bol miktarda A vitamini <br> bulunduran enginar, karaciğeri temizler, bağışıklık sistemini güçlendirir. Kalbi ve damar <br> sağlığını da koruyan enginar herkesin mutfağında mutlaka pişmeli. Zeytinyağlı enginar tarifimi <br> denemeyi unutmayın.  Deneyeceklere şimdiden afiyet olsun.</p>
+           <hr>
+    <!-- Yemek açıklaması bitti -->
+    <!-- malzemeler başladı -->
+    <h2 id="malzeme">Gerekli Malzemeler</h2>
+    <h3>(4-6 Kişilik, 35 dakika pişirme)</h3>
+    <ul>
+        <li>6 adet enginar</li>
+        <li>Yarım limon suyu (enginarları ovmak için)</li>
+        <li>1 adet havuç</li>
+        <li>1 adet patates</li>
+        <li>1 su bardağı bezelye (haşlanmış ya da konserve)</li>
+        <li>1 adet soğan</li>
+        <li>1 çay bardağı zeytinyağı</li>
+        <li>1 adet limon</li>
+        <li>1 çay kaşığı şeker</li>
+        <li>1,5 çay kaşığıTuz</li>
+        <li>1 su bardağı su</li>
+    </ul>
+    <hr>
+    <!-- malzemeler bitti -->
+
+    <!-- Yemek tarifi başladı -->
+    <tarif>
+        <h2 id="tarif">Zeytinyağlı Enginar Nasıl Yapılır?</h2>
+        <ol>
+            <li>Havuç ve patates minik küp şeklinde doğranır ve tencereye alalım, üzerini geçecek kadar <br> su ekleyerek 10 dakika kadar haşlanmaya bırakalım. Burada sebzelerin tam pişmemesi önemli, <br> hafif diri kalması gerekiyor.</li>
+            <li>Sebzelerimiz piştiktn sonra uyunu süzelim ve bir kenarda bekletelim.</li>
+            <li>Ayrı bir tencereye bezelyelerimizi alalım, üzerine su ekleyerek yumuşayıncaya kadar haşlayalım. <br> Dilerseniz konserve bezelye de kullanabilirsiniz. Haşlanan bezelyelerimizin de suyunu süzelim <br> ve bir kenarda bekletelim.</li>
+            <li>Soğanı yemeklik doğrayarak yarım çay bardağı zeytinyağında hafif pembeleşene kadar kavuralım.</li>
+            <li>Üzerine patates ve havucu ekleyelim. Haşladığımız bezelyeyi de ilave ederek 1-2 dakika karıştıralım <br> ve ocaktan alalım.</li>
+            <li>Enginarlarımızı uygun bir kap içerisine alalım, yarım limon suyu ile ovalım ve tencereye dizelim.</li>
+            <li>Orta kısımlarına hazırladığımız sebzelerden paylaştıralım. Kalan garnitürü de enginarların üzerine <br> paylaştıralım.</li>
+            <li>Üzerine zeytinyağı, limon suyu, şeker, tuz ve suyu  ekleyerek tencerenin kapağını kapatalım.</li>
+            <li>Yemeğimiz kaynayıncaya kadar orta ateşte, kaynadıktan sonra kısık ateşte enginarlar yumuşayana <br> kadar pişirelim. Bu süreç yaklaşık 20-25 dakika sürecektir.</li>
+            <li>Pişen enginarlarımızı ocaktan alalım ve soğumaya bırakalım. Ardından servis tabağına alarak <br> suyundan üzerine gezidrelim ve servis edelim. Üzerini dereotu ile de süsleyebilirsiniz.</li>
+            <p><strong>Afiyet olsun :)</strong></p>
+        </ol>
+        <h2 id="fotograf">Zeytinyağlı Enginar Fotoğraflı Yapılışı</h2>
+        <ol>
+            <li><img src="https://i.nefisyemektarifleri.com/2021/04/18/zeytinyagli-enginar-tarifi.jpg" alt="malzemeler"></li>
+            <li><img src="https://i.nefisyemektarifleri.com/2021/04/18/zeytinyagli-enginar-tarifi-1.jpg" alt="enginarlar"></li>
+            <li><img src="https://i.nefisyemektarifleri.com/2021/04/18/zeytinyagli-enginar-tarifi-2.jpg" alt="enginarların içine malzemeleri koy"></li>
+            <li><img src="https://i.nefisyemektarifleri.com/2021/04/18/zeytinyagli-enginar-tarifi-3.jpg" alt="bütün malzemeler kapta"></li>
+            <li><img src="https://i.nefisyemektarifleri.com/2021/04/18/zeytinyagli-enginar-tarifi-5.jpg" alt="pişirme faslı"></li>
+            <li><img src="https://i.nefisyemektarifleri.com/2021/04/18/zeytinyagli-enginar-tarifi-6.jpg" alt="servise hazır"></li>
+            <li><img src="https://i.nefisyemektarifleri.com/2021/04/18/zeytinyagli-enginar-tarifi-7.jpg" alt="servis şekli"></li>
+        </ol>
+
+    </tarif>
+    <hr>
+    <!-- Yemek tarifi bitti -->
+    <!-- Kaynak Başladı -->
+    <p>
+        Kaynak : <a href="https://www.nefisyemektarifleri.com/video/zeytinyagli-enginar-tarifi/" target="_blank">Nefis Yemek Tarifleri</a> 
+
+    </p>
+
+    <!-- Kaynak bitti -->
+</body>
+</html>
